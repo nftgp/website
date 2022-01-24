@@ -1,0 +1,13 @@
+{
+  "name": "nftgp.io-website",
+  "version": "1.0.0",
+  "description": "The NFT Gateway Protocol website",
+  "private": "true",
+  "scripts": {
+    "start": "tailwindcss -i ./styles.css -o ./dist/styles.css --watch"
+  },
+  "author": "Jan-Felix",
+  "devDependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
