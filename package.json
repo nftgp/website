@@ -9,6 +9,7 @@
   },
   "author": "Jan-Felix",
   "devDependencies": {
+    "postcss": "^8.4.5",
     "tailwindcss": "^3.0.15"
   }
 }
