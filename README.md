@@ -1,5 +1,7 @@
 # nftgp.io Website
 
+> https://nftgp.io
+
 ## Development
 
 The homepage uses Tailwind CSS.
