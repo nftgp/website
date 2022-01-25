@@ -1,4 +1,4 @@
-# nftgp.io Homepage
+# nftgp.io Website
 
 ## Development
 
